@@ -290,3 +290,4 @@ Here is a list of the common use cases of all methods:
    
 # WebSite
 
+Check out the [blog](https://medium.com/@n.suthar.online/scalaes-apache-spark-and-elasticsearch-connector-d6bc927f8c51)
